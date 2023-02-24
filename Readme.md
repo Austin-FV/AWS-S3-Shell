@@ -1,6 +1,6 @@
 # S3 Storage Shell (S5)
 
-**may need to install requirements.txt if not working
+**may need to install requirements.txt if not working. 
 enter 'help' once within the shell to view all available S3 commands 
 
 How to run the shell:
